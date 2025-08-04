@@ -16,7 +16,7 @@ This project is a sentiment analysis of restaurant reviews. The main objective i
 
 * 📓 `nlp_analysis_sentiment.ipynb`: The Jupyter notebook containing all the code and analysis.  
 * 📄 `README.md`: This file.  
-* 📂 `dataset.csv`: The original dataset (assuming it is in the repository).
+* 📂 `Restaurant_Reviews.tsv`: The original dataset.
 
 ## ⚙️ Requirements
 
